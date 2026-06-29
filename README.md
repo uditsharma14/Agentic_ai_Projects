@@ -27,6 +27,9 @@ This project uses the **ReAct pattern**:
 Thought → Action → PAUSE → Observation → Answer
 ```
 
+<img width="1672" height="941" alt="RaG_Workflow_ReACT_Pattern" src="https://github.com/user-attachments/assets/306f2dfe-e7ff-4209-9c3a-b473df77093b" />
+
+
 ### Meaning
 
 * **Thought**: The LLM decides what it needs to do.
